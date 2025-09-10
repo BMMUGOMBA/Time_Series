@@ -1,0 +1,4 @@
+cluster,size,percentage,core_members,border_members,avg_probability,trend,volatility,cohesion,interpretation
+0,668,21.5%,46,622,0.646,Moderate Upward,Medium,Very tight,Mixed Market Conditions
+1,546,17.6%,47,499,0.684,Moderate Downward,Medium,Very tight,Mixed Market Conditions
+-1,1889,60.9%,0,0,0.000,N/A,N/A,N/A,Outliers/Anomalous patterns
